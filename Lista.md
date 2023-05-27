@@ -1,1 +1,1 @@
-Lista de arquivos com questões inacabadas:
+Questões que estao com falhas:
